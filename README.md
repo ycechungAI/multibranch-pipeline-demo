@@ -3,3 +3,5 @@ Jenkins Multibranch Pipeline Example Repo
 
 #new feature
 Eugene
+=======
+>>>>>>> 39a88ed6efd61fae25b9043510857e59b5899708

@@ -1,5 +1,6 @@
 # multibranch-pipeline-demo
 Jenkins Multibranch Pipeline Example Repo
+<<<<<<< HEAD
 
 #new feature
 Eugene
